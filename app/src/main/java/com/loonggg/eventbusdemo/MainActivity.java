@@ -60,6 +60,7 @@ public class MainActivity extends Activity {
         Log.d("MainActivity",event.getUserName());
         btn.setText(event.getUserName());
         service_tv.setText(event.getUserName());
+        atyBtn.setText(event.getUserName());
     }
 
     @Override

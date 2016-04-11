@@ -10,8 +10,8 @@
     android:orientation="vertical"
     tools:context="com.loonggg.eventbusdemo.OtherActivity">
 
-    <TextView
-        android:id="@+id/tvContent"
+    <Button
+        android:id="@+id/btnContent"
         android:text="OtherActivity"
         android:gravity="center_horizontal"
         android:layout_width="match_parent"
